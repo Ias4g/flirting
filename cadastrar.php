@@ -10,7 +10,7 @@
 		<meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		
-		<title>Cadastros de códigos</title>
+		<title>Flirting - Cadastros de códigos</title>
 	
 		<link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
@@ -56,7 +56,7 @@
 				   
 					<input type='submit' name='btnLogin' value='Cadastrar' class='btn btn-lg btn-primary btn-block'>
 					
-					<p class='mt-5 mb-3 text-muted'>KammaSultra &copy;
+					<p class='mt-5 mb-3 text-muted'>Flirting &copy;
 						<script type='text/javascript'>
 						document.write(new Date().getFullYear());
 						</script>

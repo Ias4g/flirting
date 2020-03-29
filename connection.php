@@ -3,10 +3,10 @@
 
     function getPostgres(){
 
-        $servername = 'localhost';
-        $dbname = 'id12773404_fkwant';
-        $username = 'id12773404_fkwant';
-        $password = 'sWI4*b3jUn4S3QHhIdJ(';
+        $servername = '';
+        $dbname = '';
+        $username = '';
+        $password = '';
 
         try {
             $conn = new PDO( "pgsql:host=$servername;dbname=$dbname", $username, $password );

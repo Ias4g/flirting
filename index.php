@@ -59,9 +59,10 @@ session_start();
                     <input type='submit' name='btnLogin' value='Entrar' class='btn btn-lg btn-primary btn-block'>
 					
 					<a href="cadastrar.php" class="mt-0 mr-3 float-right small">Cadastrar códigos</a>
+					<a href="produtos.php" class="mt-0 mr-3 float-right small">Ver produtos cadastrados</a>
                 </form>
 				
-				<p class='mt-5 text-muted'>Fkwant &copy;
+				<p class='mt-5 text-muted'>Flirting &copy;
 					<script type='text/javascript'>
 					document.write(new Date().getFullYear());
 					</script>
