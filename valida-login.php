@@ -6,7 +6,7 @@
 	if($btnVerifyCode){
 		include_once 'connection.php';
 		
-		$conn = getConnection();
+		$conn = getPostgres();
 		
 		$codigo = filter_input(INPUT_POST, 'inputCodigo', FILTER_DEFAULT);
 		

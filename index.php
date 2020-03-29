@@ -12,7 +12,7 @@ session_start();
 		<meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 
-        <title>Fkwant - tela de acesso</title>
+        <title>Flirting - Acesso</title>
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
@@ -50,7 +50,7 @@ session_start();
                 <form method='POST' action='valida-login.php'>
                     <img class='mb-3' src='img/genero.svg' alt='logo' width='52' height='52'>
 
-                    <h1 class='h5 font-weight-normal mb-3'>Acessar site <b>Fkwant</b></h1>
+                    <h1 class='h5 font-weight-normal mb-3'>Acessar site <b>Flirting</b></h1>
 
                     <p class='small text-muted'>Para ter acesso à este site coloque no campo abaixo o código que recebeu através de uma carta.</p>
 
